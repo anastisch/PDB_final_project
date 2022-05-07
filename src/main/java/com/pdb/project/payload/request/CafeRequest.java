@@ -1,6 +1,6 @@
-package com.github.nazzrrg.wherecoffeeapplication.payload.request;
+package com.pdb.project.payload.request;
 
-import com.github.nazzrrg.wherecoffeeapplication.model.Hours;
+import com.pdb.project.model.Hours;
 import lombok.Data;
 
 import java.util.List;

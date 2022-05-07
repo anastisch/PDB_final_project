@@ -1,4 +1,4 @@
-package com.github.nazzrrg.wherecoffeeapplication.payload.request;
+package com.pdb.project.payload.request;
 
 import lombok.Data;
 
