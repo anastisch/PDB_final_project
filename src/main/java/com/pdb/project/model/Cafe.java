@@ -1,4 +1,4 @@
-package com.github.nazzrrg.wherecoffeeapplication.model;
+package com.pdb.project.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
