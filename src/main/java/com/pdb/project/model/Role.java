@@ -1,5 +1,4 @@
 package com.pdb.project.model;
-
 import lombok.Data;
 
 import javax.persistence.*;
